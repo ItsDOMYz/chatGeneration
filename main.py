@@ -22,3 +22,6 @@ print("Hi, I'm Blu (dabadee)")
 
 #ottimo messaggio
 print("siamo una squadra fortissimissimi")
+
+#bonus message
+print("push run bottom in TopSecret.py")
