@@ -16,3 +16,6 @@ print("Salvete! Ego sum Andrea DM.")
 
 #sesto messaggio
 print("siete cattivi con me e monelli MicheleM")
+
+#settimo messaggio
+print("siamo una squadra fortissimissimi ")
