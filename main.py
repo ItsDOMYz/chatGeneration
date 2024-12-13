@@ -19,3 +19,6 @@ print("siete cattivi con me e monelli MicheleM")
 
 #settimo messaggio
 print("Hi, I'm Blu (dabadee)")
+
+#ottimo messaggio
+print("siamo una squadra fortissimissimi")
